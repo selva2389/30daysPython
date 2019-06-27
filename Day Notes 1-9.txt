@@ -1,0 +1,131 @@
+
+
+Day 2 : 
+
+sting.title()
+
+
+#string formmating or f this method has been launched 3.5 version
+
+fname =selva
+lname =lingam
+fullname = f"{first_name} {lastname}"
+print(fullname)
+
+#Adding whitespaces
+print("python")
+
+print("\tPython")
+
+# how to print in a new line  we can use  \n
+
+print("Language : \n Python")
+
+#Strip()
+
+
+#float
+
+x,y,z = 1,2,3 -- one way of assign multiple varaible single way
+
+#Comment
+
+#add commet like this 
+
+--------------------------------
+
+#Day 3
+
+#List collection of item in a particular and it is mutable data type
+#string is and imutable data type
+# it can be assigned by using []
+
+
+bicycles =['tresk','redline','Hero']
+
+#0,1,2,3 ...
+
+print(bicycles[0].title())
+
+
+#assign value to list
+bicycles[0]='Ranger'
+bicycles[2]='Ranger22'
+
+print(bicycles)
+
+#Insert into specifi place /append
+
+bicycles.append()
+
+#need to include an element in the desired index
+#insert
+bicycles.insert(1,'ranger')
+
+
+#how to delete a value from a list
+#pop
+
+it will delete always last element
+bicyscles.pop()
+
+#to specific pop
+bicycles.pop(0) - remove first one
+
+
+cars = ['bmw','audi','toyata','benz']
+#sorting a list --using sort
+
+cars.sort()
+
+print(cars)
+
+
+
+Day 5 :
+
+# for loop
+
+students=['selva','lingam']
+for y in students
+	print(f"{y.title()},Enjoy")
+	
+3Working with numerics
+
+numbers = list(range(1,6))
+print(number)
+
+square=[]
+for values in range(1,11):
+ square=value**2
+ squares.append(square)
+print(square)
+
+
+
+week 1 recap
+
+#Installation of anaconda
+# intro strings 
+#intro list - in progress
+
+
+
+#Slicing of List
+Players = ['Kohli','dhoni','yuvi','sachin','vijaShankar']
+print(playser[2:3])
+
+print[players[:2])
+
+print[players[:])
+
+
+#copying list
+my_food =['pizza','pastry','pasta','chicken']
+friends_food=my_food[:]
+
+print(friends_food)
+friends_food.append('ice cream')
+
+
+
